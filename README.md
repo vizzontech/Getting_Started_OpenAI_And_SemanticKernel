@@ -1,0 +1,2 @@
+# Getting_Started_OpenAI_And_SemanticKernel
+Getting_Started_OpenAI_And_SemanticKernel
