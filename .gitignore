@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Getting_Started_OpenAI_And_SemanticKernel/v17
+/.vs/Getting_Started_OpenAI_And_SemanticKernel/FileContentIndex
+/.vs/Getting_Started_OpenAI_And_SemanticKernel/DesignTimeBuild
+*.bin
+/Getting_Started_OpenAI_And_SemanticKernel/bin/Debug/net8.0
+/Getting_Started_OpenAI_And_SemanticKernel/obj
