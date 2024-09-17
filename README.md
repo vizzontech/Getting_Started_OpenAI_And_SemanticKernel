@@ -1,5 +1,6 @@
 # Getting_Started_OpenAI_And_SemanticKernel
-Getting_Started_OpenAI_And_SemanticKernel
+
+Clone repo 
 
 Add dependencies  (Tools => NuGet Package Manager => Package Manager Console => run following.)
 ```
